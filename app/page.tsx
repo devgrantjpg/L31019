@@ -66,49 +66,49 @@ export default function Home() {
           }}
         >
           {/* Manually written product blocks with <Link> */}
-          <Link href="./circe">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/circe.jpg" alt="Circe" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Circe</p>
             </div>
           </Link>
 
-          <Link href="./thelordoftherings">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thelordoftheRings.jpg" alt="The Lord of the Rings" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Lord of the Rings</p>
             </div>
           </Link>
 
-          <Link href="./aworldalone">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/aworldalonebook.jpg" alt="A World Alone" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>A World Alone</p>
             </div>
           </Link>
 
-          <Link href="./lovestory">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/lovestorybook.jpg" alt="Love Story" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Love Story</p>
             </div>
           </Link>
 
-          <Link href="./thebookofdoors">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thebookofdoorsbook.jpg" alt="The Book of Doors" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Book of Doors</p>
             </div>
           </Link>
 
-          <Link href="./funnystory">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/funnystorybook.jpg" alt="Funny Story" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Funny Story</p>
             </div>
           </Link>
 
-          <Link href="./thehauntedcar">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/thehauntedcar.jpg" alt="The Haunted Car" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>The Haunted Car</p>
@@ -122,7 +122,7 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="./themummystomb">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/goosebumpsMummy.jpg" alt="Goosebumps Mummy" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Goosebumps Mummy</p>
@@ -136,28 +136,28 @@ export default function Home() {
             </div>
           </Link>
 
-           <Link href="./sololeveling12">
+           <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/sololeveling12.jpg" alt="Solo Leveling" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Solo Leveling vol. 12</p>
             </div>
           </Link>
 
-          <Link href="./sololeveling11">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/sololeveling11.jpg" alt="Solo Leveling Vol.11" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Solo Leveling Vol. 11</p>
             </div>
           </Link>
 
-          <Link href="./mars">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/mars.jpg" alt="Mars" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>Mars</p>
             </div>
           </Link>
 
-          <Link href="./agameofThrones">
+          <Link href="">
             <div style={{ textAlign: 'center', cursor: 'pointer' }}>
               <img src="/bookimgs/agameofThrones.jpg" alt="A game of Thrones" style={{ maxWidth: '200px', borderRadius: '8px' }} />
               <p>A Game of Thrones</p>
