@@ -1,28 +1,28 @@
 import Link from 'next/link';
 
 export default function Home() {
-  const productImages = [
-    '/bookimgs/circe.jpg',
-    '/bookimgs/thelordoftheRings.jpg',
-    '/bookimgs/aworldalonebook.jpg',
-    '/bookimgs/lovestorybook.jpg',
-    '/bookimgs/thebookofdoorsbook.jpg',
-    '/bookimgs/funnystorybook.jpg',
-    '/bookimgs/thehauntedcar.jpg',
-    '/bookimgs/goosebumpsHorrorland.jpg',
-    '/bookimgs/goosebumpsMummy.jpg',
-    '/bookimgs/goosebumpstalesofHorror.jpg',
-    '/bookimgs/sololeveling12.jpg',
-    '/bookimgs/sololeveling11.jpg',
-    '/bookimgs/mars.jpg',
-    '/bookimgs/agameofThrones.jpg',
-    '/bookimgs/dune.jpg',
-    '/bookimgs/example1.jpg',
-    '/bookimgs/example2.jpg',
-    '/bookimgs/example3.jpg',
-    '/bookimgs/example4.jpg',
-    '/bookimgs/example5.jpg',
-  ];
+  // const productImages = [
+  //   '/bookimgs/circe.jpg',
+  //   '/bookimgs/thelordoftheRings.jpg',
+  //   '/bookimgs/aworldalonebook.jpg',
+  //   '/bookimgs/lovestorybook.jpg',
+  //   '/bookimgs/thebookofdoorsbook.jpg',
+  //   '/bookimgs/funnystorybook.jpg',
+  //   '/bookimgs/thehauntedcar.jpg',
+  //   '/bookimgs/goosebumpsHorrorland.jpg',
+  //   '/bookimgs/goosebumpsMummy.jpg',
+  //   '/bookimgs/goosebumpstalesofHorror.jpg',
+  //   '/bookimgs/sololeveling12.jpg',
+  //   '/bookimgs/sololeveling11.jpg',
+  //   '/bookimgs/mars.jpg',
+  //   '/bookimgs/agameofThrones.jpg',
+  //   '/bookimgs/dune.jpg',
+  //   '/bookimgs/example1.jpg',
+  //   '/bookimgs/example2.jpg',
+  //   '/bookimgs/example3.jpg',
+  //   '/bookimgs/example4.jpg',
+  //   '/bookimgs/example5.jpg',
+  // ];
 
   return (
     <div style={{ fontFamily: 'Arial, sans-serif' }}>
@@ -68,7 +68,7 @@ export default function Home() {
       </div>
 
       {/* Product Grid Section */}
-      <div style={{ padding: '3rem 2rem', backgroundColor: '#000', color: '#fff' }}>
+      {/* <div style={{ padding: '3rem 2rem', backgroundColor: '#000', color: '#fff' }}>
         <h2 style={{ textAlign: 'center', marginBottom: '2rem' }}>Our Products</h2>
 
         <div
@@ -94,7 +94,7 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

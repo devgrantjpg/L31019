@@ -1,6 +1,28 @@
 import Link from 'next/link';
 
 export default function Home() {
+  // const productImages = [
+  //   '/bookimgs/circe.jpg',
+  //   '/bookimgs/thelordoftheRings.jpg',
+  //   '/bookimgs/aworldalonebook.jpg',
+  //   '/bookimgs/lovestorybook.jpg',
+  //   '/bookimgs/thebookofdoorsbook.jpg',
+  //   '/bookimgs/funnystorybook.jpg',
+  //   '/bookimgs/thehauntedcar.jpg',
+  //   '/bookimgs/goosebumpsHorrorland.jpg',
+  //   '/bookimgs/goosebumpsMummy.jpg',
+  //   '/bookimgs/goosebumpstalesofHorror.jpg',
+  //   '/bookimgs/sololeveling12.jpg',
+  //   '/bookimgs/sololeveling11.jpg',
+  //   '/bookimgs/mars.jpg',
+  //   '/bookimgs/agameofThrones.jpg',
+  //   '/bookimgs/dune.jpg',
+  //   '/bookimgs/example1.jpg',
+  //   '/bookimgs/example2.jpg',
+  //   '/bookimgs/example3.jpg',
+  //   '/bookimgs/example4.jpg',
+  //   '/bookimgs/example5.jpg',
+  // ];
 
   return (
     <div style={{ fontFamily: 'Arial, sans-serif' }}>
@@ -44,6 +66,35 @@ export default function Home() {
           </Link> 
         </div>
       </div>
+
+      {/* Product Grid Section */}
+      {/* <div style={{ padding: '3rem 2rem', backgroundColor: '#000', color: '#fff' }}>
+        <h2 style={{ textAlign: 'center', marginBottom: '2rem' }}>Our Products</h2>
+
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(4, 1fr)',
+            gap: '2rem',
+          }}
+        >
+          {productImages.map((src, index) => (
+            <div key={index} style={{ textAlign: 'center' }}>
+              <img
+                src={src}
+                alt={`Product ${index + 1}`}
+                style={{
+                  width: '100%',
+                  maxWidth: '200px',
+                  borderRadius: '8px',
+                  margin: '0 auto',
+                }}
+              />
+              <p style={{ marginTop: '0.5rem' }}>Product {index + 1}</p>
+            </div>
+          ))}
+        </div>
+      </div> */}
     </div>
   );
 }
