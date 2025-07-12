@@ -68,7 +68,7 @@ export default function Home() {
       </div>
 
       {/* Product Grid Section */}
-      <div style={{ padding: '3rem 2rem', backgroundColor: '#000', color: '#fff' }}>
+      {/* <div style={{ padding: '3rem 2rem', backgroundColor: '#000', color: '#fff' }}>
         <h2 style={{ textAlign: 'center', marginBottom: '2rem' }}>Our Products</h2>
 
         <div
@@ -94,7 +94,7 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
