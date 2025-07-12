@@ -25,8 +25,8 @@ export async function Navbar() {
           >
             CodeGit
           </Link>
-          <Link href="/Industrial" className="text-sm font-medium hover:text-blue-400 transition-colors">
-            Books
+          <Link href="/industrial" className="text-sm font-medium hover:text-blue-400 transition-colors">
+            Industrial
           </Link>
         </div>
       </div>
