@@ -49,7 +49,7 @@ export default function Home() {
         >
           <h2 style={{ fontSize: '2.2rem', marginBottom: '0.5rem' }}>SMVM</h2>
           <h1 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Innovation and Quality</h1>
-          {/* <Link href="/about">
+           <Link href="/about">
             <button
               style={{
                 padding: '0.75rem 1.5rem',
@@ -61,9 +61,9 @@ export default function Home() {
                 cursor: 'pointer',
               }}
             >
-              Click Here
+              Whole Sale
             </button>
-          </Link> */}
+          </Link> 
         </div>
       </div>
 
