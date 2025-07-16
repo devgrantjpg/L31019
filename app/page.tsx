@@ -82,7 +82,7 @@ export default function Home() {
             borderRadius: '10px',
           }}
         >
-          <h2 style={{ fontSize: '2.2rem', marginBottom: '0.5rem' }}>SMVM</h2>
+          <h2 style={{ fontSize: '2.2rem', marginBottom: '0.5rem' }}>SMVM Wholesale</h2>
           <h1 style={{ fontSize: '2rem', marginBottom: '1rem' }}>Innovation and Quality</h1>
           {/* <Link href="/industrial">
             <button
