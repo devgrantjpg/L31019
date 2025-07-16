@@ -9,7 +9,7 @@ export default function Home() {
     },
     {
       title: 'Portable plasma machine',
-      image: '/industrial/IndustrialMachines1.png',
+      image: '/industrial/industrialMachines1.png',
       discount: '12%',
     },
     {
