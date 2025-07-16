@@ -9,12 +9,12 @@ export default function Home() {
     },
     {
       title: 'Portable plasma machine',
-      image: '/industrial/industrialMachines1.png',
+      image: '/industrial/plasma.png',
       discount: '12%',
     },
     {
       title: 'Industrial Fan',
-      image: '/industrial/Industrialmachines.png',
+      image: '/industrial/fan.png',
       discount: '15%',
     },
     {
