@@ -165,7 +165,7 @@ export default function Home() {
             <p style={{ fontSize: '1.05rem', marginBottom: '1rem' }}>
               Limited time offer on {product.title}.
             </p>
-            <Link href="/industrial">
+            <Link href="https://wa.link/zn4yjr">
               <button
                 style={{
                   backgroundColor: '#ff6600',
