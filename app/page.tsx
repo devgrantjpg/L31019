@@ -8,12 +8,12 @@ export default function Home() {
       discount: '10%',
     },
     {
-      title: 'Industrial Machines 1',
+      title: 'Portable plasma machine',
       image: '/industrial/IndustrialMachines1.png',
       discount: '12%',
     },
     {
-      title: 'Industrial Machines',
+      title: 'Industrial Fan',
       image: '/industrial/Industrialmachines.png',
       discount: '15%',
     },
